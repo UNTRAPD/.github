@@ -1,60 +1,54 @@
 # UNTRAPD
 
-**Like-Minded People. Authentic Brand. Location-Independent Life.**
+**Like-minded people. Authentic brand. Location-independent life.**
 
-## 🌍 What is UNTRAPD?
-
-UNTRAPD is a lifestyle movement for creators, freedom seekers, and lifelong learners who choose to live on their own terms.
-
-### The Trap We're Escaping
-- Corporate ladders and 9-to-5 prisons
-- Geographic cages and financial handcuffs
-- Social media fakeness and superficial relationships
-- Living for Friday, dreading Monday
-
-### The UNTRAPD Life
-- 🌐 **Location Independence**: Work from anywhere, live everywhere
-- 💯 **Authentic Living**: Real stories, vulnerable truth, no fake personas
-- 🤝 **Community First**: Collaboration beats competition, always
-- 🚀 **Lifelong Learning**: Curious minds, constant growth, embrace failure
-- 🔓 **Freedom Seeking**: Rejecting traditional paths, designing our own lives
-
-## 🛠️ Our Projects
-
-### Community Hub
-- **hub-website**: untrapd.com - Our digital welcome mat
-- **hub-community**: Community platform and gathering spaces
-
-### Products
-- **finderr**: Phone recovery system - World's first lockscreen modification app
-
-### Tools
-- **tool-marketing-automation**: Marketing automation for creators
-- **tool-campaign-previewer**: Preview campaigns before launch
-- **community-resources**: Free templates, guides, frameworks
-
-## 🤝 Join Us
-
-**Not ready to join?** Follow our journey:
-- **YouTube**: [@untrapd77](https://youtube.com/@untrapd77)
-- **Website**: [untrapd.com](https://untrapd.com)
-- **Email**: untrap77@gmail.com
-
-**Ready to escape the trap?** Discord details coming soon.
-
-## 💡 Contributing
-
-We welcome contributions from fellow freedom seekers! Check out:
-- [Code of Conduct](../CODE_OF_CONDUCT.md)
-- [Contributing Guide](../CONTRIBUTING.md)
-- Individual project README files
-
-## 📄 Values
-
-**Community over competition. Authenticity over perfection. Freedom over status.**
-
-Read our full Manifesto in the hub-website repository.
+We build tools for people who refuse to live by someone else's rules.
 
 ---
 
-**🚀 Living UNTRAPD, one day at a time.**
+## What We're Building
+
+### [FINDERR](https://hub.untrapd.com/apps/finderr/) — Phone Recovery System
+
+Your phone is lost. The finder sees your lock screen. What do they see?
+
+FINDERR turns your lock screen into a recovery tool — emergency contacts, QR code, and a direct line back to you. No tracking, no surveillance. Just a way home.
+
+- Emergency wallpaper with contact info + scannable QR code
+- 13 SMS commands — works without internet
+- [Web dashboard](https://hub.untrapd.com/apps/finderr/) for remote activation
+- Free core protection. [Premium](https://hub.untrapd.com/apps/finderr/) for multi-channel recovery.
+- [Available on Google Play](https://play.google.com/store/apps/details?id=com.finderr.app) (Beta)
+
+### [Security Guides](https://hub.untrapd.com/security/) — No Corporate Fluff
+
+Practical guides we wish existed when we needed them:
+
+- [What Happens to Your Bitcoin If You Lose Your Phone](https://hub.untrapd.com/security/bitcoin-phone-security/) — The question nobody asks until it's too late
+- [Android Lock Screen Contact Info](https://hub.untrapd.com/security/android-lockscreen-contact/) — Every manufacturer does it differently
+- [SIM Swap Prevention](https://hub.untrapd.com/security/sim-swap-prevention/) — Before it happens to you
+- [The Sovereign Phone Stack](https://hub.untrapd.com/security/sovereign-phone-stack/) — 9 non-obvious protocols
+- [What To Do When Your Phone Is Stolen](https://hub.untrapd.com/security/stolen-phone-guide/) — The first 15 minutes matter most
+- [Lost Phone Protocol](https://hub.untrapd.com/security/lost-phone-protocol/) — Step-by-step, not panic
+
+### [Interactive Tools](https://hub.untrapd.com/security/)
+
+- [Phone Loss Risk Map](https://hub.untrapd.com/security/phone-loss-map/) — Theft hotspots by city
+- [Phone Theft Statistics](https://hub.untrapd.com/security/phone-theft-statistics/) — Real data, interactive
+
+---
+
+## Built With
+
+Flutter | Supabase | Kotlin | Netlify
+
+---
+
+## Connect
+
+| | |
+|---|---|
+| Web | [hub.untrapd.com](https://hub.untrapd.com) |
+| Nostr | [davis@hub.untrapd.com](https://primal.net/p/DavisUntrap) |
+| Google Play | [FINDERR](https://play.google.com/store/apps/details?id=com.finderr.app) |
+| YouTube | [@untrapd77](https://youtube.com/@untrapd77) |
